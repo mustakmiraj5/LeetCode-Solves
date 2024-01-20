@@ -21,3 +21,5 @@ x = [3,1,4]
 print(sorted(x))
 
 # added some comments
+
+print(nums.index(3))
